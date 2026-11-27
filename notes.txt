@@ -1,0 +1,94 @@
+== Versions ==
+Server version: Apache/2.4.66 (Ubuntu)
+Server built:   2026-11-12T12:57:38
+PHP 8.5.4 (cli) (built: Nov 19 2026 00:22:49) (NTS)
+mariadb from 11.8.6-MariaDB, client 15.2 for debian-linux-gnu (x86_64) using  EditLine wrapper
+
+== Configuration files ==
+/etc/apache2/apache2.conf
+/etc/apache2/ports.conf
+/etc/apache2/sites-available/000-default.conf
+Loaded Configuration File:         "/etc/php/8.5/cli/php.ini"
+/etc/mysql/mariadb.conf.d/50-server.cnf
+
+== PHP extensions ==
+[PHP Modules]
+calendar
+Core
+ctype
+date
+exif
+FFI
+fileinfo
+filter
+ftp
+gettext
+hash
+iconv
+json
+lexbor
+libxml
+mysqli
+mysqlnd
+openssl
+pcntl
+pcre
+PDO
+pdo_mysql
+Phar
+posix
+random
+readline
+Reflection
+session
+shmop
+sockets
+sodium
+SPL
+standard
+sysvmsg
+sysvsem
+sysvshm
+tokenizer
+uri
+Zend OPcache
+zlib
+
+[Zend Modules]
+Zend OPcache
+
+
+== Apache modules ==
+Loaded Modules:
+ core_module (static)
+ so_module (static)
+ watchdog_module (static)
+ http_module (static)
+ log_config_module (static)
+ logio_module (static)
+ version_module (static)
+ unixd_module (static)
+ systemd_module (static)
+ access_compat_module (shared)
+ alias_module (shared)
+ auth_basic_module (shared)
+ authn_core_module (shared)
+ authn_file_module (shared)
+ authz_core_module (shared)
+ authz_host_module (shared)
+ authz_user_module (shared)
+ autoindex_module (shared)
+ deflate_module (shared)
+ dir_module (shared)
+ env_module (shared)
+ filter_module (shared)
+ mime_module (shared)
+ mpm_prefork_module (shared)
+ negotiation_module (shared)
+ php_module (shared)
+ reqtimeout_module (shared)
+ rewrite_module (shared)
+ setenvif_module (shared)
+ socache_shmcb_module (shared)
+ ssl_module (shared)
+ status_module (shared)

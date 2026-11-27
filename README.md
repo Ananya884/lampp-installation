@@ -35,3 +35,8 @@ To install and test a LAMPP stack (Linux, Apache, MariaDB, PHP) on an AWS EC2 Ub
 - What each part of the LAMPP stack does
 - Why two web servers cannot use the same port
 - How to test Apache, PHP and the database separately
+
+## Dynamic website with database
+A PHP page reads students from a MariaDB table and shows them in a list. A form on the same page adds new students live. The code is in `students.php` and the database setup is in `setup.sql` (the password is replaced with `YOUR_PASSWORD`).
+
+![Student list](screenshots/4-dynamic-student-list.png)
